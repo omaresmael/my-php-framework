@@ -1,0 +1,2 @@
+__DIR__ => https://stackoverflow.com/questions/32537477/how-to-use-dir;
+call_user_func() => https://www.geeksforgeeks.org/php-call_user_func-function/

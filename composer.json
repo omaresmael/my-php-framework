@@ -1,0 +1,16 @@
+{
+    "name": "omaresmael/mvc-framework",
+    "description": "me trying to understand how laravel works",
+    "authors": [
+        {
+            "name": "omaresmael",
+            "email": "omaresamel590@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
